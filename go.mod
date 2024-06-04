@@ -5,6 +5,7 @@ go 1.22.3
 require github.com/spf13/cobra v1.8.0
 
 require (
+	github.com/aidarkhanov/nanoid/v2 v2.0.5 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
